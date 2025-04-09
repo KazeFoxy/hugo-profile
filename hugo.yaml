@@ -197,7 +197,7 @@ params:
         content: |
           J'ai effectué un stage à 3S Sécurité du Groupe-3 en tant qu'administrateur réseau et sécurité.
 
-          - Déploiement automatique dee VM Client à l'aide d'Ansible.
+          - Déploiement automatique de VM Client à l'aide d'Ansible.
           - Création de scripts Ansible pour automatiser des processus récurrents.
           - Déploiment de serveurs Proxmox pour la virtualisation.
           - Configuration de switches.
@@ -316,22 +316,26 @@ params:
     enable: true
     title: "Réalisations"
     items:
-      - title: Portfolio
-        content: Réalisation de Portfolio pour le BTS SIO !
+      - title: Projet cybersécurité et supervision chez 3S Sécurité
+        content: Mise en place de solutions de supervision (Grafana, Telegraf, cAdvisor), audit et hardening des VM, automatisation avec Ansible et configuration réseau (switchs).
         url: https://exemple.com
-        image: /images/achievement.jpg
-      - title: Réalisation 2
-        content: Ceci est m'a 2ème Réalisation.
-        image: /images/achievement.jpg
-      - title: Réalisation 3
-        content: Ceci est m'a troisième Réalisation.
+        image: /images/3S.png
+      - title: Déploiement de 450 postes à l'Université de Bourgogne
+        content: Lors de mon stage à l'Université de Bourgogne, j'ai participé au déploiement d'environ 450 postes pour la rentrée, en utilisant MDT et WAPT, ainsi qu'à la maintenance des postes utilisateurs.
+        image: /images/UB_logo.jpg
+      - title: Infrastructure réseau chez A.V.S Réseaux
+        content: Installation de fibres optiques et câblage réseau dans un environnement professionnel. Participation à la mise en place et à la gestion de réseaux physiques.
         url: "https://github.com/"
-        image: /images/achievement.jpg
-      - title: Réalisation 4
-        content: Ceci est m'a quatrième Réalisation.
-      - title: Réalisation 5
-        content: Ceci est m'a cinquième Réalisation.
+        image: /images/AVS.png
+      - title: Root-Me et MOOC ANSSI
+        content: Participation régulière à des challenges de cybersécurité sur Root-Me et suivi du MOOC SecNumAcadémie de l’ANSSI pour renforcer mes compétences en sécurité des systèmes.
+        url: "https://www.root-me.org/Kaze-977554?lang=fr"
+        image: /images/root-me.png
+      - title: Création de mon portfolio avec Hugo
+        content: Création d’un site statique avec Hugo pour présenter mon parcours, mes compétences et mes projets. Thème personnalisé, contenu en français, hébergement sur GitHub.
         url: https://example.com
+        image: /images/hugo_logo.png
+
 
   # projects
   projects:
