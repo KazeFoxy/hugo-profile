@@ -1,34 +1,113 @@
 ---
-title: "Emoji Support"
-date: 2021-04-03T22:53:58+05:30
-draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
-tags:
-  - Emoji support
-  - Sample
-  - example
-image: /images/post.jpg
-description: ""
-toc: 
+marp: true
+theme: default
+paginate: true
+backgroundColor: #e6f0ff
+style: |
+  section {
+    color: #003366;
+  }
+  h1, h2 {
+    color: #002244;
+  }
 ---
 
-Emoji can be enabled in a Hugo project in a number of ways. :zap:
+<!-- Page de titre -->
 
-## Emoji Support
+# Soutenance de stage  
+## 2ème année – BTS SIO SISR  
+### 3S Sécurité – Groupe-3  
+#### Présenté par [Ton prénom et nom]  
+##### Avril 2025
 
-The [emojify](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+---
 
-To enable emoji globally, set ```enableEmoji``` to ```true``` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+# Introduction
 
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
+- 2ème stage de BTS SIO option SISR  
+- Stage réalisé chez **3S Sécurité**, entreprise spécialisée en cybersécurité et infrastructure réseau  
+- Objectifs :  
+  - Approfondir mes compétences techniques  
+  - Participer à des projets concrets en environnement professionnel
 
-<hr>
+---
 
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
+# Présentation de l’entreprise
 
-```
-.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}
-```
+## 🏢 3S Sécurité – Groupe-3
+
+- Secteur : Cybersécurité et services IT  
+- Activités principales :  
+  - Administration réseau  
+  - Déploiement d’infrastructure  
+  - Sécurisation de systèmes  
+  - Supervision et automatisation
+
+---
+
+# Missions confiées
+
+### 🔧 Déploiement et administration
+
+- Déploiement automatique de VM avec **Ansible**
+- Supervision avec **Grafana**, **InfluxDB**, **Telegraf**, **cAdvisor**
+- Mise en place de règles de sécurité et de **hardening**
+
+---
+
+### 🔍 Audit et cybersécurité
+
+- Réalisation d’audits de sécurité avec **Lynis**, **Rkhunter**, **ClamAV**
+- Scans de vulnérabilités
+- Participation à des **MOOC ANSSI** et **challenges Root-Me**
+
+---
+
+### ⚙️ Infrastructure et réseau
+
+- Configuration de **switchs** et de serveurs  
+- Déploiement de serveurs **Proxmox**  
+- Documentation et gestion avec **GitHub** et **NetBox**
+
+---
+
+# Compétences acquises
+
+✅ **Techniques** :  
+- Automatisation avec Ansible  
+- Supervision avec Grafana / InfluxDB  
+- Virtualisation avec Proxmox  
+- Sécurité Linux (hardening, audit)
+
+✅ **Professionnelles** :  
+- Autonomie et rigueur  
+- Travail en équipe  
+- Capacité à documenter mes actions
+
+---
+
+# Difficultés rencontrées
+
+⚠️ Mise en place de certains outils (compatibilités, erreurs d'installation)  
+⚠️ Gestion des dépendances dans les playbooks Ansible  
+⚠️ Complexité des configurations réseau et sécurité (pfSense, firewall…)
+
+✅ Solutions :  
+- Documentation et tests en local  
+- Demandes d’aide à mon tuteur  
+- Lecture des logs et résolutions pas à pas
+
+---
+
+# Conclusion
+
+🎯 Stage très enrichissant sur le plan technique et humain  
+💼 Expérience en conditions réelles dans le domaine de la cybersécurité  
+📈 Renforcement de mon projet professionnel  
+🙏 Remerciements à toute l’équipe de **3S Sécurité**
+
+---
+
+# Merci de votre attention !  
+## Questions ? 😊
+
