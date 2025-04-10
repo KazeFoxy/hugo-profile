@@ -390,7 +390,7 @@ params:
   #Contact
   contact:
     enable: true
-    title: "Contacte"
+    title: "Contact"
     content: Ma boîte mail est toujours ouverte. Que vous ayez une question ou que vous souhaitiez simplement me dire bonjour, je ferai de mon mieux pour vous répondre !
     btnName: Envoyer moi un mail
     btnLink: mailto:jarodpauchet21@gmail.com
