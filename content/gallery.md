@@ -6,7 +6,7 @@ description: "Ma galerie :earth_asia:"
 layout: "gallery"
 galleryImages:
  - src: /images/preview_tableau_e4.png
- - src: /images/TableauSynthèseEpreuveE4.pdf](https://github.com/KazeFoxy/hugo-profile/blob/main/static/images/TableauSynth%C3%A8seEpreuveE4.pdf.pdf)
+ - src: https://github.com/KazeFoxy/hugo-profile/blob/main/static/images/TableauSynth%C3%A8seEpreuveE4.pdf.pdf
 viewer : true
 viewerOptions : {
     title: false
