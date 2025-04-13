@@ -5,7 +5,9 @@ draft: false
 description: "Ma galerie :earth_asia:"
 layout: "gallery"
 galleryImages:
- - src: /images/preview_tableau_e4.png
+ - src: /images/TableauSynthèseEpreuveE4.jpg
+ - src: /images/AttestationStageBTS-1er-année.jpg
+ - src: /images/AttestationStageBTS-2eme-année.jpg
 viewer : true
 viewerOptions : {
     title: false
