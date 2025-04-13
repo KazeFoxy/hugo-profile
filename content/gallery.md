@@ -1,8 +1,8 @@
 ---
-title: "Ma Galerie Photo"
+title: "BTS SIO"
 date: 2022-06-25T18:35:46+05:30
 draft: false
-description: "Ma galerie :earth_asia:"
+description: "Papier nécessaire BTS SIO"
 layout: "gallery"
 galleryImages:
  - src: /images/TableauSynthèseEpreuveE4.jpg
