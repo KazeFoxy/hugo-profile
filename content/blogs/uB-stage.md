@@ -25,9 +25,9 @@ mathjax: true
 
 #### À propos du Pôle Informatique/Réseau de l'uB
 
->  ***Le pôle Informatique/Réseau*** de l'uB est un service spécialisée dans la **Maintenance et déploiement de systèmes informatiques**. 
->  
->  Elle accompagne les élèves et personnelles travaillant à l'université.
+> Le pôle Informatique/Réseau de l’Université de Bourgogne est un service spécialisé dans la maintenance et le déploiement de systèmes informatiques.
+> 
+> Il accompagne les étudiants et le personnel de l’université dans l’utilisation et le bon fonctionnement des équipements informatiques.
 
 ---
 
