@@ -4,7 +4,6 @@ date: 2025-04-09T19:53:33+05:30
 draft: false
 author: "Jarod PAUCHET"
 tags:
-  - Markdown syntax
   - Stage
   - 3S Sécurité
   - Groupe-3
