@@ -1,113 +1,72 @@
 ---
-marp: true
-theme: default
-paginate: true
-backgroundColor: #e6f0ff
-style: |
-  section {
-    color: #003366;
-  }
-  h1, h2 {
-    color: #002244;
-  }
+title: "Stage 3S Sécurité"
+date: 2025-04-09T19:53:33+05:30
+draft: false
+author: "Jarod PAUCHET"
+tags:
+  - Stage
+  - 3S Sécurité
+  - Groupe-3
+image: /images/3Sreduce.png
+description: "Retour sur mon stage chez 3S Sécurité : cybersécurité, supervision et automatisation."
+toc: true
+mathjax: true
 ---
 
-<!-- Page de titre -->
+## 🏢 Présentation de l’entreprise
 
-# Soutenance de stage  
-## 2ème année – BTS SIO SISR  
-### 3S Sécurité – Groupe-3  
-#### Présenté par Jarod  
-##### Avril 2025
+> - **Nom :** *3S Sécurité - Groupe-3*
+> - **Secteur d’activité :** *Sécurité des systèmes d’information*
+> - **Localisation :** *38 Rue Maxime Guillot BP 50007, 21300 Chenôve*
+> - **Date de Création :** *Fondée en 2020*
 
----
+#### À propos de 3S Sécurité
 
-# Introduction
-
-- 2ème stage de BTS SIO option SISR  
-- Stage réalisé chez **3S Sécurité**, entreprise spécialisée en cybersécurité et infrastructure réseau  
-- Objectifs :  
-  - Approfondir mes compétences techniques  
-  - Participer à des projets concrets en environnement professionnel
+>  ***3S Sécurité*** est une entreprise spécialisée dans la **protection des infrastructures informatiques**. 
+>  
+>  Elle accompagne les entreprises dans la sécurisation de leurs systèmes et la mise en place de solutions adaptées à leurs besoins.
 
 ---
 
-# Présentation de l’entreprise
+## 🎯 Objectifs du stage
 
-## 🏢 3S Sécurité – Groupe-3
-
-- Secteur : Cybersécurité et services IT  
-- Activités principales :  
-  - Administration réseau  
-  - Déploiement d’infrastructure  
-  - Sécurisation de systèmes  
-  - Supervision et automatisation
+> L’objectif de mon stage était de participer à des projets liés à la **cybersécurité**, à la **supervision** et à l’**automatisation**.
+>
+> Approfondir mes compétences techniques  
+>
+>  J’ai intégré une équipe technique en charge de sécuriser et d’optimiser une infrastructure virtuelle.
 
 ---
 
-# Missions confiées
+## 🛠️ Missions réalisées
 
-### 🔧 Déploiement et administration
-
-- Déploiement automatique de VM avec **Ansible**
-- Supervision avec **Grafana**, **InfluxDB**, **Telegraf**, **cAdvisor**
-- Mise en place de règles de sécurité et de **hardening**
-
----
-
-### 🔍 Audit et cybersécurité
-
-- Réalisation d’audits de sécurité avec **Lynis**, **Rkhunter**, **ClamAV**
-- Scans de vulnérabilités
-- Participation à des **MOOC ANSSI** et **challenges Root-Me**
+> - **Déploiement automatique de machines virtuelles clientes avec Ansible.**
+> - **Création de playbooks Ansible personnalisés.**
+> - **Mise en place de serveurs de supervision avec cAdvisor.**
+> - **Audit de sécurité des machines.**
+> - **Renforcement de la sécurité (hardening) des serveurs Linux.**
+> - **Création de requêtes de supervision (queries) pour analyser le flux de données.**
+> - **Configuration de switchs réseaux.**
+> - **Participation au dépannage des clients.**
 
 ---
 
-### ⚙️ Infrastructure et réseau
 
-- Configuration de **switchs** et de serveurs  
-- Déploiement de serveurs **Proxmox**  
-- Documentation et gestion avec **GitHub** et **NetBox**
+## ✅ Bilan
 
----
-
-# Compétences acquises
-
-✅ **Techniques** :  
-- Automatisation avec Ansible  
-- Supervision avec Grafana / InfluxDB  
-- Virtualisation avec Proxmox  
-- Sécurité Linux (hardening, audit)
-
-✅ **Professionnelles** :  
-- Autonomie et rigueur  
-- Travail en équipe  
-- Capacité à documenter mes actions
+_(Tu peux ajouter ici une conclusion perso : ce que tu as appris, ce que tu as aimé, une ouverture sur la suite, etc.)_
 
 ---
 
-# Difficultés rencontrées
+## 🔗 Annexes
 
-⚠️ Mise en place de certains outils (compatibilités, erreurs d'installation)  
-⚠️ Gestion des dépendances dans les playbooks Ansible  
-⚠️ Complexité des configurations réseau et sécurité (pfSense, firewall…)
+_(Facultatif : tu peux mettre ici des liens vers des playbooks Ansible, captures d’écran, scripts GitHub, ou docs perso)_
 
-✅ Solutions :  
-- Documentation et tests en local  
-- Demandes d’aide à mon tuteur  
-- Lecture des logs et résolutions pas à pas
 
 ---
 
-# Conclusion
+# Soutenance de stage
 
-🎯 Stage très enrichissant sur le plan technique et humain  
-💼 Expérience en conditions réelles dans le domaine de la cybersécurité  
-📈 Renforcement de mon projet professionnel  
-🙏 Remerciements à toute l’équipe de **3S Sécurité**
+👉 [Voir le diaporama en plein écran](/slides/Soutenance-3S.html)
 
----
-
-# Merci de votre attention !  
-## Questions ?
-
+<iframe src="/slides/Soutenance-3S.html" width="100%" height="600px" style="border:none;"></iframe>
