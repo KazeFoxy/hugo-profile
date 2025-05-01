@@ -56,13 +56,13 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
 
 ## ✅ Bilan
 
-_(Tu peux ajouter ici une conclusion perso : ce que tu as appris, ce que tu as aimé, une ouverture sur la suite, etc.)_
+_ texte _
 
 ---
 
 ## 🔗 Annexes
 
-_(Facultatif : tu peux mettre ici des liens vers des playbooks Ansible, captures d’écran, scripts GitHub, ou docs perso)_
+_playbooks Ansible, captures d’écran, scripts GitHub, ou docs perso_
 
 
 ---
