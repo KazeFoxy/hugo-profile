@@ -109,5 +109,5 @@ style: |
 ---
 
 # Merci de votre attention !  
-## Questions ? 😊
+## Questions ?
 
