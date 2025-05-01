@@ -7,20 +7,20 @@ tags:
   - Stage
   - Université de Bourgogne
   - uB
-image: /images/uBreduce.png
-description: "Retour sur mon stage à l'université de Bourgogne"
+image: /images/uB.png
+description: "Retour sur mon stage dans le pôle Informatique/Réseau de l'université de Bourgogne"
 toc: true
 mathjax: true
 ---
 
 ## 🏢 Présentation du service
 
-> - **Nom :** *université de Bourgogne*
-> - **Secteur d’activité :** *Sécurité des systèmes d’information*
+> - **Nom :** *Université de Bourgogne*
+> - **Secteur d’activité :** *Maintenance et déploiement de systèmes informatiques*
 > - **Localisation :** *3 Esp. Erasme, 21000 Dijon*
 > - **Date de Création :** *Fondée en 2000*
 
-#### À propos de 3S Sécurité
+#### À propos du Pôle Informatique/Réseau de l'uB
 
 >  ***3S Sécurité*** est une entreprise spécialisée dans la **protection des infrastructures informatiques**. 
 >  
