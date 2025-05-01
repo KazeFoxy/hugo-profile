@@ -32,7 +32,7 @@ mathjax: true
 
 > L’objectif de mon stage était de participer à des projets liés à la **cybersécurité**, à la **supervision** et à l’**automatisation**.
 >
-> Approfondir mes compétences techniques
+> Développer mes compétences techniques en environnement professionnel
 > 
 > Participer à l'amélioration du SI de 3S Sécurité
 
