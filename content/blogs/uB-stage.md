@@ -15,16 +15,16 @@ mathjax: true
 
 ## 🏢 Présentation du service
 
-> - **Nom :** *Université de Bourgogne*
+> - **Nom :** *Université de Bourgogne - Pôle Informatique/Réseau*
 > - **Secteur d’activité :** *Maintenance et déploiement de systèmes informatiques*
 > - **Localisation :** *3 Esp. Erasme, 21000 Dijon*
 > - **Date de Création :** *Fondée en 2000*
 
 #### À propos du Pôle Informatique/Réseau de l'uB
 
->  ***3S Sécurité*** est une entreprise spécialisée dans la **protection des infrastructures informatiques**. 
+>  ***Le pôle Informatique/Réseau*** de l'uB est un service spécialisée dans la **Maintenance et déploiement de systèmes informatiques**. 
 >  
->  Elle accompagne les entreprises dans la sécurisation de leurs systèmes et la mise en place de solutions adaptées à leurs besoins.
+>  Elle accompagne les élèves et personnelles travaillant à l'université.
 
 ---
 
