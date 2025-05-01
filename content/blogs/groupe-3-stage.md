@@ -33,12 +33,12 @@ mathjax: true
 > L’objectif de mon stage était de participer à des projets liés à la **cybersécurité**, à la **supervision** et à l’**automatisation**.
 >
 > Approfondir mes compétences techniques  
->
->  J’ai intégré une équipe technique en charge de sécuriser et d’optimiser une infrastructure virtuelle.
 
 ---
 
 ## 🛠️ Missions réalisées
+
+J’ai intégré une équipe technique en charge de déploiyer, sécuriser et d’optimiser une infrastructure réseau.
 
 > - **Déploiement automatique de machines virtuelles clientes avec Ansible.**
 > - **Création de playbooks Ansible personnalisés.**
