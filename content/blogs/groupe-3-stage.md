@@ -17,7 +17,7 @@ style: |
 # Soutenance de stage  
 ## 2ème année – BTS SIO SISR  
 ### 3S Sécurité – Groupe-3  
-#### Présenté par [Ton prénom et nom]  
+#### Présenté par Jarod  
 ##### Avril 2025
 
 ---
