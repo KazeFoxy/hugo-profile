@@ -33,7 +33,11 @@ mathjax: true
 
 ## 🎯 Objectifs du stage
 
-> L’objectif du stage était de participer au déploiement et à la maintenance des postes informatiques, tout en développant mes compétences techniques et mon autonomie en environnement professionnel.
+> L’objectif de mon stage était de participer au déploiement et à la maintenance des postes informatiques.
+>
+> Développer mes compétences techniques en environnement professionnel
+>
+> Renforcer mon autonomie dans un contexte de support informatique
 
 ---
 
