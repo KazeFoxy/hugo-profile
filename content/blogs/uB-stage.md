@@ -45,14 +45,11 @@ mathjax: true
 
 J’ai intégré une équipe technique chargée de déployer des postes informatiques et de maintenir l’infrastructure réseau de l’Université de Bourgogne.
 
-> - **Déploiement automatique de machines virtuelles clientes avec Ansible.**
-> - **Création de playbooks Ansible personnalisés.**
-> - **Mise en place de serveurs de supervision avec cAdvisor.**
-> - **Audit de sécurité des machines.**
-> - **Renforcement de la sécurité (hardening) des serveurs Linux.**
-> - **Création de requêtes de supervision (queries) pour analyser le flux de données.**
-> - **Configuration de switchs réseaux.**
-> - **Participation au dépannage des clients.**
+> - **Déploiement de postes informatiques : Installation, configuration et paramétrage de postes pour les étudiants et le personnel de l’université.**
+> - **Maintenance et mise à niveau des équipements informatiques : Mise à jour des systèmes d’exploitation, des logiciels et gestion des pannes matérielles.**
+> - **Support technique aux utilisateurs : Assistance aux utilisateurs dans la résolution de problèmes informatiques courants (réseaux, logiciels, etc.).**
+> - **Gestion de l’infrastructure réseau : Surveillance des équipements réseau, résolution des dysfonctionnements et assistance à la gestion des câblages.**
+> - **Documentation : Mise à jour des procédures et des guides utilisateurs pour faciliter les interventions futures.**
 
 ---
 
