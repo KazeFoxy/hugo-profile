@@ -38,7 +38,7 @@ mathjax: true
 
 ## 🛠️ Missions réalisées
 
-J’ai intégré une équipe technique en charge de déploiyer, sécuriser et d’optimiser une infrastructure réseau.
+J’ai intégré une équipe technique chargée de déployer, sécuriser et optimiser une infrastructure réseau.
 
 > - **Déploiement automatique de machines virtuelles clientes avec Ansible.**
 > - **Création de playbooks Ansible personnalisés.**
