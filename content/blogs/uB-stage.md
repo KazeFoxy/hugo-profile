@@ -39,6 +39,8 @@ mathjax: true
 
 ## 🛠️ Missions réalisées
 
+J’ai intégré une équipe technique chargée de déployer des postes informatiques et de maintenir l’infrastructure réseau de l’Université de Bourgogne.
+
 > - **Déploiement automatique de machines virtuelles clientes avec Ansible.**
 > - **Création de playbooks Ansible personnalisés.**
 > - **Mise en place de serveurs de supervision avec cAdvisor.**
