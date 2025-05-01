@@ -1,145 +1,113 @@
 ---
-title: "Markdown Syntax"
-date: 2021-04-03T23:29:21+05:30
-draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
-tags:
-  - Markdown syntax
-  - Sample
-  - example
-image: /images/post.jpg
-description: ""
-toc:
+marp: true
+theme: default
+paginate: true
+backgroundColor: #e6f0ff
+style: |
+  section {
+    color: #003366;
+  }
+  h1, h2 {
+    color: #002244;
+  }
 ---
 
-## Paragraph
+<!-- Page de titre -->
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+# Soutenance de stage  
+## 2ème année – BTS SIO SISR  
+### 3S Sécurité – Groupe-3  
+#### Présenté par Jarod  
+##### Avril 2025
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+---
 
-## Blockquotes
+# Introduction
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+- 2ème stage de BTS SIO option SISR  
+- Stage réalisé chez **3S Sécurité**, entreprise spécialisée en cybersécurité et infrastructure réseau  
+- Objectifs :  
+  - Approfondir mes compétences techniques  
+  - Participer à des projets concrets en environnement professionnel
 
-### Blockquote without attribution
+---
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use _Markdown syntax_ within a blockquote.
+# Présentation de l’entreprise
 
-### Blockquote with attribution
+## 🏢 3S Sécurité – Groupe-3
 
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
+- Secteur : Cybersécurité et services IT  
+- Activités principales :  
+  - Administration réseau  
+  - Déploiement d’infrastructure  
+  - Sécurisation de systèmes  
+  - Supervision et automatisation
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+---
 
-## Tables
+# Missions confiées
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+### 🔧 Déploiement et administration
 
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+- Déploiement automatique de VM avec **Ansible**
+- Supervision avec **Grafana**, **InfluxDB**, **Telegraf**, **cAdvisor**
+- Mise en place de règles de sécurité et de **hardening**
 
-### Inline Markdown within tables
+---
 
-| Inline&nbsp;&nbsp;&nbsp; | Markdown&nbsp;&nbsp;&nbsp; | In&nbsp;&nbsp;&nbsp;                | Table  |
-| ------------------------ | -------------------------- | ----------------------------------- | ------ |
-| _italics_                | **bold**                   | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code` |
+### 🔍 Audit et cybersécurité
 
-## Code Blocks
+- Réalisation d’audits de sécurité avec **Lynis**, **Rkhunter**, **ClamAV**
+- Scans de vulnérabilités
+- Participation à des **MOOC ANSSI** et **challenges Root-Me**
 
-### Code block with backticks
+---
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
+### ⚙️ Infrastructure et réseau
 
-### Code block indented with four spaces
+- Configuration de **switchs** et de serveurs  
+- Déploiement de serveurs **Proxmox**  
+- Documentation et gestion avec **GitHub** et **NetBox**
 
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+---
 
-### Code block with Hugo's internal highlight shortcode
+# Compétences acquises
 
-{{< highlight html >}}
+✅ **Techniques** :  
+- Automatisation avec Ansible  
+- Supervision avec Grafana / InfluxDB  
+- Virtualisation avec Proxmox  
+- Sécurité Linux (hardening, audit)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
+✅ **Professionnelles** :  
+- Autonomie et rigueur  
+- Travail en équipe  
+- Capacité à documenter mes actions
 
-## List Types
+---
 
-### Ordered List
+# Difficultés rencontrées
 
-1. First item
-2. Second item
-3. Third item
+⚠️ Mise en place de certains outils (compatibilités, erreurs d'installation)  
+⚠️ Gestion des dépendances dans les playbooks Ansible  
+⚠️ Complexité des configurations réseau et sécurité (pfSense, firewall…)
 
-### Unordered List
+✅ Solutions :  
+- Documentation et tests en local  
+- Demandes d’aide à mon tuteur  
+- Lecture des logs et résolutions pas à pas
 
-- List item
-- Another item
-- And another item
+---
 
-### Nested list
+# Conclusion
 
-- Item
-  1. First Sub-item
-  2. Second Sub-item
+🎯 Stage très enrichissant sur le plan technique et humain  
+💼 Expérience en conditions réelles dans le domaine de la cybersécurité  
+📈 Renforcement de mon projet professionnel  
+🙏 Remerciements à toute l’équipe de **3S Sécurité**
 
-## Headings
+---
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+# Merci de votre attention !  
+## Questions ? 😊
 
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
