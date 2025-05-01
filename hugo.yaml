@@ -347,7 +347,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://portfolio-jarodpauchet.netlify.app/
         badges:
           - "Hugo"
           - "Bootstrap"
