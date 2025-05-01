@@ -33,11 +33,7 @@ mathjax: true
 
 ## 🎯 Objectifs du stage
 
-> L’objectif de mon stage était de participer à des projets liés à la **cybersécurité**, à la **supervision** et à l’**automatisation**.
->
-> Approfondir mes compétences techniques  
->
->  J’ai intégré une équipe technique en charge de sécuriser et d’optimiser une infrastructure virtuelle.
+> L’objectif du stage était de participer au déploiement et à la maintenance des postes informatiques, tout en développant mes compétences techniques et mon autonomie en environnement professionnel.
 
 ---
 
