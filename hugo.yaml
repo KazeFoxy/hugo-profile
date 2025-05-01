@@ -333,7 +333,7 @@ params:
         image: /images/root-me.png
       - title: Création de mon portfolio avec Hugo
         content: Création d’un site statique avec Hugo pour présenter mon parcours, mes compétences et mes projets. Thème personnalisé, contenu en français, hébergement sur GitHub.
-        url: https://example.com
+        url: "https://portfolio-jarodpauchet.netlify.app/"
         image: /images/hugo_logo.png
 
 
