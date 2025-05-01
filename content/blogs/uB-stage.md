@@ -1,24 +1,24 @@
 ---
-title: "Stage 3S Sécurité"
+title: "Stage uB"
 date: 2025-04-09T19:53:33+05:30
 draft: false
 author: "Jarod PAUCHET"
 tags:
   - Stage
-  - 3S Sécurité
-  - Groupe-3
-image: /images/3Sreduce.png
-description: "Retour sur mon stage chez 3S Sécurité : cybersécurité, supervision et automatisation."
+  - Université de Bourgogne
+  - uB
+image: /images/uBreduce.png
+description: "Retour sur mon stage à l'université de Bourgogne"
 toc: true
 mathjax: true
 ---
 
-## 🏢 Présentation de l’entreprise
+## 🏢 Présentation du service
 
-> - **Nom :** *3S Sécurité - Groupe-3*
+> - **Nom :** *université de Bourgogne*
 > - **Secteur d’activité :** *Sécurité des systèmes d’information*
-> - **Localisation :** *38 Rue Maxime Guillot BP 50007, 21300 Chenôve*
-> - **Date de Création :** *Fondée en 2020*
+> - **Localisation :** *3 Esp. Erasme, 21000 Dijon*
+> - **Date de Création :** *Fondée en 2000*
 
 #### À propos de 3S Sécurité
 
