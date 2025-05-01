@@ -16,10 +16,10 @@ mathjax: true
 ## 🏢 Présentation du service
 
 > - **Nom :** *Université de Bourgogne - Pôle Informatique/Réseau*
-> - **Secteur d’activité :
->   - ** *Maintenance et déploiement de systèmes informatiques*
->   - ** *Assistance technique / support utilisateur*
->   - ** *Gestion d’infrastructure réseau et parc informatique*
+> - **Secteur d’activité :**
+>   - **Maintenance et déploiement de systèmes informatiques**
+>   - **Assistance technique / support utilisateur**
+>   - **Gestion d’infrastructure réseau et parc informatique**
 > - **Localisation :** *3 Esp. Erasme, 21000 Dijon*
 > - **Date de Création :** *Fondée en 2000*
 
