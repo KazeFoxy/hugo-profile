@@ -4,9 +4,9 @@ date: 2025-04-09T19:53:33+05:30
 draft: false
 author: "Jarod PAUCHET"
 tags:
-  - Stage
   - Université de Bourgogne
   - uB
+  - Stage
 image: /images/uB.png
 description: "Retour sur mon stage dans le pôle Informatique/Réseau de l'université de Bourgogne"
 toc: true
