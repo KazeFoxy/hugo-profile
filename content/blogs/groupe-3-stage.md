@@ -62,8 +62,52 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
 
 ## 🔗 Annexes
 
-_playbooks Ansible, captures d’écran, scripts GitHub, ou docs perso_
+> Voici un apercu de m'a collection **Ansible** pour déployer **FluentBit**
 
+
+```
+---
+- name: Déployer Fluent Bit
+  hosts: localhost
+  become: yes
+  vars_files:
+    - /vars_files/influxdb_credentials.yml
+  roles:
+    - install_fluentbit  # Le rôle pour installer Fluent Bit
+    - config_fluentbit   # Le rôle pour configurer Fluent Bit
+    - restart_fluentbit  # Le rôle pour redémarrer Fluent Bit
+```
+> Extrait de Fluentbit.yml
+
+```
+---
+# Ajouter le dépôt Fluent Bit pour Debian
+- name: Ajouter la clé GPG de Fluent Bit
+  ansible.builtin.apt_key:
+    url: https://packages.fluentbit.io/fluentbit.key
+    state: present
+
+- name: Ajouter le dépôt Fluent Bit pour Debian
+  ansible.builtin.apt_repository:
+    repo: "deb https://packages.fluentbit.io/debian/buster stable main"
+    state: present
+    filename: fluentbit
+
+# Installer Fluent Bit
+- name: Installer fluent-bit
+  ansible.builtin.apt:
+    name: fluent-bit
+    state: present
+    update_cache: yes
+
+# Check si Fluent Bit est démarrer
+- name: Démarrer Fluent Bit
+  ansible.builtin.service:
+      name: fluent-bit
+      state: started
+      enabled: yes
+```
+> Extrait du rôle install_fluentbit
 
 ---
 
