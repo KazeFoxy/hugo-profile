@@ -59,11 +59,3 @@ mathjax: true
 > Ce stage m’a permis de consolider mes compétences en déploiement et maintenance de postes informatiques dans un environnement professionnel réel. 
 >
 > J’ai appris à travailler en équipe, à gérer des tâches de manière autonome et à m’adapter aux besoins des utilisateurs. Cette expérience m’a donné une vision concrète du métier de technicien informatique.
-
----
-
-# Soutenance de stage
-
-👉 [Voir le diaporama en plein écran](/slides/Soutenance-3S.html)
-
-<iframe src="/slides/Soutenance-3S.html" width="100%" height="600px" style="border:none;"></iframe>
