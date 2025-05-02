@@ -54,7 +54,9 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
 
 ## ✅ Bilan
 
-_ texte _
+> Ce stage m’a permis de découvrir des domaines avancés comme la cybersécurité, la supervision et l’automatisation.
+>
+> J’ai pu mettre en pratique mes connaissances, approfondir mes compétences techniques, et développer ma rigueur dans un environnement exigeant. Ce stage a renforcé mon intérêt pour les métiers liés à la sécurité des systèmes d’information.
 
 ---
 
