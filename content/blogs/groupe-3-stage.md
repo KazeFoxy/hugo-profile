@@ -19,12 +19,11 @@ mathjax: true
 > - **Secteur d’activité :** *Sécurité des systèmes d’information*
 > - **Localisation :** *38 Rue Maxime Guillot BP 50007, 21300 Chenôve*
 > - **Date de Création :** *Fondée en 2020*
-
-#### À propos de 3S Sécurité
-
->  ***3S Sécurité*** est une entreprise spécialisée dans la **protection des infrastructures informatiques**. 
+> ### À propos de 3S Sécurité
+>
+> > ***3S Sécurité*** est une entreprise spécialisée dans la **protection des infrastructures informatiques**. 
 >  
->  Elle accompagne les entreprises dans la sécurisation de leurs systèmes et la mise en place de solutions adaptées à leurs besoins.
+> > Elle accompagne les entreprises dans la sécurisation de leurs systèmes et la mise en place de solutions adaptées à leurs besoins.
 
 ---
 
