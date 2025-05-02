@@ -23,7 +23,7 @@ mathjax: true
 > - **Localisation :** *3 Esp. Erasme, 21000 Dijon*
 > - **Date de Création :** *Fondée en 2000*
 
-#### À propos du Pôle Informatique/Réseau de l'uB
+#### À propos
 
 > Le pôle Informatique/Réseau de l’Université de Bourgogne est un service spécialisé dans la maintenance et le déploiement de systèmes informatiques.
 > 
