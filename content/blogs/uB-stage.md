@@ -43,15 +43,15 @@ mathjax: true
 
 ## 🛠️ Missions réalisées
 
-J’ai intégré une équipe technique chargée de déployer des postes informatiques et de maintenir l’infrastructure réseau de l’Université de Bourgogne.
-
-> **Déploiement de postes informatiques :** Installation, configuration et paramétrage de postes pour les étudiants et le personnel de l’université.
->
-> **Maintenance et mise à niveau des équipements informatiques :** Mise à jour des systèmes d’exploitation, des logiciels et gestion des pannes matérielles.
->
-> **Support technique aux utilisateurs :** Assistance aux utilisateurs dans la résolution de problèmes informatiques courants (réseaux, logiciels, etc.).
->
-> **Gestion de l’infrastructure réseau :** Surveillance des équipements réseau, résolution des dysfonctionnements et assistance à la gestion des câblages.
+> J’ai intégré une équipe technique chargée de déployer des postes informatiques et de maintenir l’infrastructure réseau de l’Université de Bourgogne.
+  >
+  > **Déploiement de postes informatiques :** Installation, configuration et paramétrage de postes pour les étudiants et le personnel de l’université.
+  >
+  > **Maintenance et mise à niveau des équipements informatiques :** Mise à jour des systèmes d’exploitation, des logiciels et gestion des pannes matérielles.
+  >
+  > **Support technique aux utilisateurs :** Assistance aux utilisateurs dans la résolution de problèmes informatiques courants (réseaux, logiciels, etc.).
+  >
+  > **Gestion de l’infrastructure réseau :** Surveillance des équipements réseau, résolution des dysfonctionnements et assistance à la gestion des câblages.
 
 ---
 
