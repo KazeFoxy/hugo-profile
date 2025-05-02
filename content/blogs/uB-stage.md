@@ -58,16 +58,9 @@ J’ai intégré une équipe technique chargée de déployer des postes informat
 
 ## ✅ Bilan
 
-Ce stage m’a permis de consolider mes compétences en déploiement et maintenance de postes informatiques dans un environnement professionnel réel. 
-
-J’ai appris à travailler en équipe, à gérer des tâches de manière autonome et à m’adapter aux besoins des utilisateurs. Cette expérience m’a donné une vision concrète du métier de technicien informatique.
-
----
-
-## 🔗 Annexes
-
-_playbooks Ansible, captures d’écran, scripts GitHub, ou docs perso_
-
+> Ce stage m’a permis de consolider mes compétences en déploiement et maintenance de postes informatiques dans un environnement professionnel réel. 
+>
+> J’ai appris à travailler en équipe, à gérer des tâches de manière autonome et à m’adapter aux besoins des utilisateurs. Cette expérience m’a donné une vision concrète du métier de technicien informatique.
 
 ---
 
