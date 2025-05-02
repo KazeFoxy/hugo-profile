@@ -63,8 +63,8 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
 ## 🔗 Annexes
 
 > Voici un apercu de m'a collection **Ansible** pour déployer **FluentBit**
-
-
+>
+> Extrait de Fluentbit.yml
 ```
 ---
 - name: Déployer Fluent Bit
@@ -77,8 +77,8 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
     - config_fluentbit   # Le rôle pour configurer Fluent Bit
     - restart_fluentbit  # Le rôle pour redémarrer Fluent Bit
 ```
-> Extrait de Fluentbit.yml
 
+> Extrait du rôle install_fluentbit
 ```
 ---
 # Ajouter le dépôt Fluent Bit pour Debian
@@ -107,7 +107,6 @@ J’ai intégré une équipe technique chargée de déployer, sécuriser et opti
       state: started
       enabled: yes
 ```
-> Extrait du rôle install_fluentbit
 
 ---
 
