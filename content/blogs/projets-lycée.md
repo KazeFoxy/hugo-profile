@@ -13,29 +13,42 @@ description: ""
 toc: 
 ---
 
-> Blog sur mes projets au lycée Le Castel pendant mon BTS !
+> Blog sur mes projets au lycée Le Castel pendant mon BTS SIO !
 
-# Titre 1
-  1. Exierant elisi ambit vivere dedere
-  2. Duce pollice
-  3. Eris modo
-  4. Spargitque ferrea quos palude
+# Projet GSB : Mission "Compte-rendu"
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+🎯 **Objectif** :  
+> Mettre en œuvre, pour chaque groupe d'AP, une **infrastructure virtuelle complète** composée de quatre serveurs hébergés sur **Proxmox** :
 
-  1. Comas hunc haec pietate fetum procerum dixit
-  2. Post torum vates letum Tiresia
-  3. Flumen querellas
-  4. Arcanaque montibus omnes
-  5. Quidem et
+- 🗄️ **Serveur MariaDB** : héberge toutes les bases de données du projet  
+- 🛠️ **Serveur Gitea** : plateforme de gestion des dépôts Git  
+- 🌐 **Serveur Apache/PHP** :  
+  - héberge l’application web en production  
+  - fournit l’accès à **phpMyAdmin** pour administrer les bases  
+  - contient un **Wiki** pour la documentation technique  
+- 💾 **Serveur de sauvegarde** : sauvegarde automatique des bases deux fois par jour
 
-# Vagus elidunt
+### Résultat :
+- Environnement de développement et de production stable  
+- Données sécurisées et facilement récupérables  
+- Documentation intégrée et accessible
 
+# Projet SDIS29 : Mission 
+
+🎯 **Objectif** :  
+> Créer un **environnement complet de production, de test et de supervision** sur Proxmox à l’aide de **VM KVM**.
+
+### Tâches réalisées :
+- Déploiement d’un **serveur de production (ap3x-prod)** :  
+  - Tomcat 10 pour héberger l’application web  
+  - Base de données **MariaDB** pour le stockage des données
+- Mise en place d’un **serveur de test (ap3x-test)** identique à la prod, pour les essais et validations
+- Installation d’un **serveur de supervision (ap3x-mon)** pour surveiller l’état des autres machines (ressources, services)
+
+### Résultat :
+- Environnement isolé et modulaire pour tester et déployer sereinement  
+- Capacité de **surveillance** en temps réel de l’activité des serveurs  
+- Bonne pratique Dev/Prod respectée
+
+  
 [The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. Faces illo pepulere tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel mitis temploque vocatus, inque alis, oculos nomen non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides parte.
