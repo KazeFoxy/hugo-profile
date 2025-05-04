@@ -50,3 +50,7 @@ toc:
 > - Environnement isolé et modulaire pour tester et déployer sereinement  
 > - Capacité de **surveillance** en temps réel de l’activité des serveurs  
 > - Bonne pratique Dev/Prod respectée
+
+## Soutenance Épreuve E5
+
+[](https://github.com/KazeFoxy/hugo-profile/blob/main/static/images/Soutenance%20Epreuve%20E5.pdf)
