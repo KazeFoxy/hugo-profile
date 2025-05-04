@@ -34,7 +34,7 @@ toc:
 > - Données sécurisées et facilement récupérables  
 > - Documentation intégrée et accessible
 
-# Projet SDIS29 : Mission 
+# Projet SDIS29
 
 ## 🎯 **Objectif** :  
 > > Créer un **environnement complet de production, de test et de supervision** sur Proxmox à l’aide de **VM KVM**.
