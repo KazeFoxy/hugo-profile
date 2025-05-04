@@ -17,7 +17,7 @@ toc:
 
 # Projet GSB : Mission "Compte-rendu"
 
-🎯 **Objectif** :  
+##🎯 **Objectif** :  
 > Mettre en œuvre, pour chaque groupe d'AP, une **infrastructure virtuelle complète** composée de quatre serveurs hébergés sur **Proxmox** :
 
 - 🗄️ **Serveur MariaDB** : héberge toutes les bases de données du projet  
@@ -35,7 +35,7 @@ toc:
 
 # Projet SDIS29 : Mission 
 
-🎯 **Objectif** :  
+##🎯 **Objectif** :  
 > Créer un **environnement complet de production, de test et de supervision** sur Proxmox à l’aide de **VM KVM**.
 
 ### Tâches réalisées :
