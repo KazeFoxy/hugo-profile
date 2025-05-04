@@ -3,7 +3,7 @@ title: "Projets Lycée"
 date: 2025-05-03T22:41:10+05:30
 draft: false
 github_link: "https://github.com/KazeFoxy/hugo-profile"
-author: "Kaze"
+author: "Jarod PAUCHET"
 tags:
   - Projets
   - GSB
