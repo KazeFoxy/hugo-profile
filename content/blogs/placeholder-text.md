@@ -1,19 +1,19 @@
 ---
-title: "Placeholder Text"
-date: 2021-04-03T22:41:10+05:30
+title: "Projets Lycée"
+date: 2025-05-03T22:41:10+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+author: "Kaze"
 tags:
-  - Placeholder text
-  - Sample
-  - example
+  - Projets
+  - GSB
+  - SDIS29
 image: /images/post.jpg
 description: ""
 toc: 
 ---
 
-Lorem est tota propiore conpellat pectoribus de pectora summo.
+Blog sur mes projets au lycée Le Castel pendant mon BTS !
 
 Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
 
