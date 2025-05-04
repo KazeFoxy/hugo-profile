@@ -9,7 +9,7 @@ tags:
   - GSB
   - SDIS29
 image: /images/post.jpg
-description: ""
+description: "Blog sur mes projets au lycée Le Castel pendant mon BTS SIO !"
 toc: 
 ---
 
