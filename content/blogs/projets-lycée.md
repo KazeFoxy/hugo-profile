@@ -28,7 +28,7 @@ toc:
 >   - contient un **Wiki** pour la documentation technique  
 > - 💾 **Serveur de sauvegarde** : sauvegarde automatique des bases deux fois par jour
 
-### Résultat :
+## Résultat :
 > - Environnement de développement et de production stable  
 > - Données sécurisées et facilement récupérables  
 > - Documentation intégrée et accessible
@@ -45,7 +45,7 @@ toc:
 > - Mise en place d’un **serveur de test** identique à la prod, pour les essais et validations
 > - Installation d’un **serveur de supervision** pour surveiller l’état des autres machines (ressources, services)
 
-### Résultat :
+## Résultat :
 > - Environnement isolé et modulaire pour tester et déployer sereinement  
 > - Capacité de **surveillance** en temps réel de l’activité des serveurs  
 > - Bonne pratique Dev/Prod respectée
