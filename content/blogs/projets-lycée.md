@@ -49,6 +49,3 @@ toc:
 - Environnement isolé et modulaire pour tester et déployer sereinement  
 - Capacité de **surveillance** en temps réel de l’activité des serveurs  
 - Bonne pratique Dev/Prod respectée
-
-  
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
