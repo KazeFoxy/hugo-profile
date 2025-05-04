@@ -15,9 +15,9 @@ toc:
 > Blog sur ma Veille Technologique !
 
 ## Méthodologie personnelle :
-- Méthode PUSH
-- Veille Continue
+- **Méthode PUSH**
+- **Veille Continue**
 
 ## Les outils utilisés :
-- Vivaldi, Flux RSS (Actualités Linux, Windows, logiciels/services)
-- Newsletters, Gmail (Actualités récentes concernant la Tech)
+- **Vivaldi, Flux RSS** (Actualités Linux, Windows, logiciels/services)
+- **Newsletters, Gmail** (Actualités récentes concernant la Tech)
