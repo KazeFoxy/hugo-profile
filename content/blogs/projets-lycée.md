@@ -20,6 +20,7 @@ toc:
 ## 🎯 **Objectif** :  
 > > Mettre en œuvre, pour chaque groupe d'AP, une **infrastructure virtuelle complète** composée de quatre serveurs hébergés sur **Proxmox** :
 
+## Tâches réalisées :
 > - 🗄️ **Serveur MariaDB** : héberge toutes les bases de données du projet  
 > - 🛠️ **Serveur Gitea** : plateforme de gestion des dépôts Git  
 > - 🌐 **Serveur Apache/PHP** :  
@@ -38,7 +39,7 @@ toc:
 ## 🎯 **Objectif** :  
 > > Créer un **environnement complet de production, de test et de supervision** sur Proxmox à l’aide de **VM KVM**.
 
-### Tâches réalisées :
+## Tâches réalisées :
 > - Déploiement d’un **serveur de production** :  
 >   - Tomcat 10 pour héberger l’application web  
 >   - Base de données **MariaDB** pour le stockage des données
