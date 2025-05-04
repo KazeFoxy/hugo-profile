@@ -53,4 +53,6 @@ toc:
 
 ## Soutenance Épreuve E5
 
-[](https://github.com/KazeFoxy/hugo-profile/blob/main/static/images/Soutenance%20Epreuve%20E5.pdf)
+👉 [Voir le diaporama en plein écran](/slides/Soutenance-epreuveE5.html)
+
+<iframe src="/slides/Soutenance-epreuveE5.html" width="100%" height="600px" style="border:none;"></iframe>
